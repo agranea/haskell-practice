@@ -1,4 +1,3 @@
-# agranea's nix + gitpod template
-inspired by https://github.com/nix-dot-dev/nix.dev
+# agranea's haskell practice 
 
-[Use this template](https://github.com/agranea/nix-gitpod-template/generate)
+Nothing serious, just looking into haskell, eventually.
